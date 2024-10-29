@@ -1,0 +1,4 @@
+my-streamlit-app/
+├── app.py                # Main Streamlit app file
+├── requirements.txt      # Python dependencies
+└── README.md             # Optional: Project description and instructions
